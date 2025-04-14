@@ -1,0 +1,845 @@
+{
+    "num_questions": 105,
+    "questions": [
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Mount Everest is the tallest mountain on Earth.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "The Earth is the third planet from the Sun.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Sharks are mammals.",
+            "answer": "false"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Sharks are mammals.",
+            "answer": "false"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "The Earth is the third planet from the Sun.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "The Earth is the third planet from the Sun.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Mount Everest is the tallest mountain on Earth.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "The Earth is the third planet from the Sun.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Mount Everest is the tallest mountain on Earth.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Lightning never strikes the same place twice.",
+            "answer": "false"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Water is made up of two hydrogen atoms and one oxygen atom.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Lightning never strikes the same place twice.",
+            "answer": "false"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Water is made up of two hydrogen atoms and one oxygen atom.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "The atomic number of oxygen is 8.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Bananas grow on trees.",
+            "answer": "false"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Water is made up of two hydrogen atoms and one oxygen atom.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Sound travels faster in air than in water.",
+            "answer": "false"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Water is made up of two hydrogen atoms and one oxygen atom.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "The Earth is the third planet from the Sun.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Sound travels faster in air than in water.",
+            "answer": "false"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Bananas grow on trees.",
+            "answer": "false"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Lightning never strikes the same place twice.",
+            "answer": "false"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Lightning never strikes the same place twice.",
+            "answer": "false"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Water is made up of two hydrogen atoms and one oxygen atom.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Lightning never strikes the same place twice.",
+            "answer": "false"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Mount Everest is the tallest mountain on Earth.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Mount Everest is the tallest mountain on Earth.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Mount Everest is the tallest mountain on Earth.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Sound travels faster in air than in water.",
+            "answer": "false"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Sharks are mammals.",
+            "answer": "false"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "The atomic number of oxygen is 8.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Sound travels faster in air than in water.",
+            "answer": "false"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "The atomic number of oxygen is 8.",
+            "answer": "true"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "Bananas grow on trees.",
+            "answer": "false"
+        },
+        {
+            "type": "TF",
+            "points": 5,
+            "question": "The Earth is the third planet from the Sun.",
+            "answer": "true"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Who wrote 'Hamlet'?",
+            "choices": [
+                "Charles Dickens",
+                "William Shakespeare",
+                "Leo Tolstoy",
+                "Jane Austen"
+            ],
+            "answer": "B"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Which organ pumps blood throughout the human body?",
+            "choices": [
+                "Liver",
+                "Lungs",
+                "Heart",
+                "Brain"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "How many continents are there on Earth?",
+            "choices": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "How many continents are there on Earth?",
+            "choices": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "What is the largest planet in our Solar System?",
+            "choices": [
+                "Earth",
+                "Saturn",
+                "Jupiter",
+                "Mars"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "What is the hardest natural substance?",
+            "choices": [
+                "Diamond",
+                "Gold",
+                "Iron",
+                "Quartz"
+            ],
+            "answer": "A"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "What is the largest planet in our Solar System?",
+            "choices": [
+                "Earth",
+                "Saturn",
+                "Jupiter",
+                "Mars"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "How many continents are there on Earth?",
+            "choices": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Who wrote 'Hamlet'?",
+            "choices": [
+                "Charles Dickens",
+                "William Shakespeare",
+                "Leo Tolstoy",
+                "Jane Austen"
+            ],
+            "answer": "B"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Which gas do plants absorb from the atmosphere?",
+            "choices": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Who developed the theory of relativity?",
+            "choices": [
+                "Isaac Newton",
+                "Albert Einstein",
+                "Galileo Galilei",
+                "Nikola Tesla"
+            ],
+            "answer": "B"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "How many continents are there on Earth?",
+            "choices": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Which gas do plants absorb from the atmosphere?",
+            "choices": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Who developed the theory of relativity?",
+            "choices": [
+                "Isaac Newton",
+                "Albert Einstein",
+                "Galileo Galilei",
+                "Nikola Tesla"
+            ],
+            "answer": "B"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Which gas do plants absorb from the atmosphere?",
+            "choices": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Which organ pumps blood throughout the human body?",
+            "choices": [
+                "Liver",
+                "Lungs",
+                "Heart",
+                "Brain"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Who wrote 'Hamlet'?",
+            "choices": [
+                "Charles Dickens",
+                "William Shakespeare",
+                "Leo Tolstoy",
+                "Jane Austen"
+            ],
+            "answer": "B"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Which gas do plants absorb from the atmosphere?",
+            "choices": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Which planet is closest to the sun?",
+            "choices": [
+                "Venus",
+                "Earth",
+                "Mercury",
+                "Mars"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Which planet is closest to the sun?",
+            "choices": [
+                "Venus",
+                "Earth",
+                "Mercury",
+                "Mars"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Which gas do plants absorb from the atmosphere?",
+            "choices": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "What is the capital of France?",
+            "choices": [
+                "Berlin",
+                "Madrid",
+                "Paris",
+                "Lisbon"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "How many continents are there on Earth?",
+            "choices": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Which organ pumps blood throughout the human body?",
+            "choices": [
+                "Liver",
+                "Lungs",
+                "Heart",
+                "Brain"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "What is the hardest natural substance?",
+            "choices": [
+                "Diamond",
+                "Gold",
+                "Iron",
+                "Quartz"
+            ],
+            "answer": "A"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Which planet is closest to the sun?",
+            "choices": [
+                "Venus",
+                "Earth",
+                "Mercury",
+                "Mars"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "What is the capital of France?",
+            "choices": [
+                "Berlin",
+                "Madrid",
+                "Paris",
+                "Lisbon"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Who developed the theory of relativity?",
+            "choices": [
+                "Isaac Newton",
+                "Albert Einstein",
+                "Galileo Galilei",
+                "Nikola Tesla"
+            ],
+            "answer": "B"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Which element has the chemical symbol 'O'?",
+            "choices": [
+                "Osmium",
+                "Oxygen",
+                "Gold",
+                "Iron"
+            ],
+            "answer": "B"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "How many continents are there on Earth?",
+            "choices": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Which planet is closest to the sun?",
+            "choices": [
+                "Venus",
+                "Earth",
+                "Mercury",
+                "Mars"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "What is the hardest natural substance?",
+            "choices": [
+                "Diamond",
+                "Gold",
+                "Iron",
+                "Quartz"
+            ],
+            "answer": "A"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Which element has the chemical symbol 'O'?",
+            "choices": [
+                "Osmium",
+                "Oxygen",
+                "Gold",
+                "Iron"
+            ],
+            "answer": "B"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Who wrote 'Hamlet'?",
+            "choices": [
+                "Charles Dickens",
+                "William Shakespeare",
+                "Leo Tolstoy",
+                "Jane Austen"
+            ],
+            "answer": "B"
+        },
+        {
+            "type": "MC",
+            "points": 10,
+            "question": "Who wrote 'Hamlet'?",
+            "choices": [
+                "Charles Dickens",
+                "William Shakespeare",
+                "Leo Tolstoy",
+                "Jane Austen"
+            ],
+            "answer": "B"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is the capital of Japan?",
+            "answer": "Tokyo"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is the freezing point of water in Celsius?",
+            "answer": "0"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is the chemical symbol for Sodium?",
+            "answer": "Na"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "Which language is primarily spoken in Brazil?",
+            "answer": "Portuguese"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "Which language is primarily spoken in Brazil?",
+            "answer": "Portuguese"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "Which ocean is the largest?",
+            "answer": "Pacific"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "Which language is primarily spoken in Brazil?",
+            "answer": "Portuguese"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is the chemical symbol for Sodium?",
+            "answer": "Na"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "Which animal is known as the King of the Jungle?",
+            "answer": "Lion"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is the main ingredient in bread?",
+            "answer": "Flour"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "Which ocean is the largest?",
+            "answer": "Pacific"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is the freezing point of water in Celsius?",
+            "answer": "0"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is the chemical symbol for Sodium?",
+            "answer": "Na"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "Which ocean is the largest?",
+            "answer": "Pacific"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "Which animal is known as the King of the Jungle?",
+            "answer": "Lion"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is the capital of Japan?",
+            "answer": "Tokyo"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "Which language is primarily spoken in Brazil?",
+            "answer": "Portuguese"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is the freezing point of water in Celsius?",
+            "answer": "0"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is the chemical symbol for Sodium?",
+            "answer": "Na"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is the main ingredient in bread?",
+            "answer": "Flour"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "Which animal is known as the King of the Jungle?",
+            "answer": "Lion"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What planet do we live on?",
+            "answer": "Earth"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is the freezing point of water in Celsius?",
+            "answer": "0"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "Which animal is known as the King of the Jungle?",
+            "answer": "Lion"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is 12 x 12?",
+            "answer": "144"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What gas do humans need to breathe?",
+            "answer": "Oxygen"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is the chemical symbol for Sodium?",
+            "answer": "Na"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "Which language is primarily spoken in Brazil?",
+            "answer": "Portuguese"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is the freezing point of water in Celsius?",
+            "answer": "0"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "Which language is primarily spoken in Brazil?",
+            "answer": "Portuguese"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "Which animal is known as the King of the Jungle?",
+            "answer": "Lion"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is 12 x 12?",
+            "answer": "144"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What planet do we live on?",
+            "answer": "Earth"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "What is the main ingredient in bread?",
+            "answer": "Flour"
+        },
+        {
+            "type": "SA",
+            "points": 20,
+            "question": "Which language is primarily spoken in Brazil?",
+            "answer": "Portuguese"
+        }
+    ]
+}
